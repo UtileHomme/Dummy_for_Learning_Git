@@ -1,6 +1,10 @@
 <?php 
 
+<<<<<<< HEAD
 Hello Jatin
+=======
+Hey!! Making changes to files again
+>>>>>>> 0798e5a... First reset to last 2 commits then committed again. Checking what happens now
 
 We'll keep on adding files to this repo. 
 
