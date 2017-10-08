@@ -1,4 +1,5 @@
-<?php 
+<?php
+
 
 Hello Jatin Sharma
 
@@ -22,5 +23,9 @@ Once this is done, I'll create my own branch and start adding and committing thr
 Then we'll try to understand various concepts (like Rebase) assuming you and I are developers in a company 
 
 Edit this to reply
+
+Changes made by UtileHomme on ubuntu
+
+Checking out how stash works
 
 ?>
