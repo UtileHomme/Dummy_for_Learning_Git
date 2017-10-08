@@ -28,6 +28,10 @@ Changes made by UtileHomme on ubuntu
 
 Checking out how stash works
 
+
 Chanages made by UtileHomme1 on windows
+
+
+Changes stashed by UtileHomme on ubuntu
 
 ?>
